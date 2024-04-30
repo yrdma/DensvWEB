@@ -1,0 +1,22 @@
+body{
+    margin: 0;    
+}
+h1{
+    margin: 0;
+}
+header{
+    background-color: #2f78d6;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;/* Só funciona se tiver display:flex */
+}
+#boxor-ordenar button{
+    border: 0;
+
+}
+#box-categorias button{
+    background-color: #4caf50;
+    border: 0;
+    color: #fff;
+
+}
