@@ -9,14 +9,19 @@ header{
     display: flex;
     text-align: center;
     justify-content: space-between;/* Só funciona se tiver display:flex */
+    padding: 10px;
 }
-#boxor-ordenar button{
+#box-ordenar button, #box-categorias button{
+    
     border: 0;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
 
+}
+#box-ordenar button{
+    background-color: #020c96; 
 }
 #box-categorias button{
     background-color: #4caf50;
-    border: 0;
-    color: #fff;
-
 }
