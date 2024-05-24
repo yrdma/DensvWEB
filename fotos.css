@@ -20,8 +20,13 @@ header{
 
 }
 #box-ordenar button{
-    background-color: #020c96; 
+    background-color: #020c96;
+    cursor: pointer; 
 }
 #box-categorias button{
     background-color: #4caf50;
+    cursor: pointer;
+}
+#galeria-imagens{
+    text-align: center;
 }
